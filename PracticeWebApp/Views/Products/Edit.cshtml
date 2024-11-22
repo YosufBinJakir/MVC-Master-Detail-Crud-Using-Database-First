@@ -1,0 +1,69 @@
+﻿@model PracticeWebApp.ViewModels.ProductEditModel
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+@using (Html.BeginForm("Edit", "Products", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.HiddenFor(x=>x.ProductId)
+    <div>
+        @Html.LabelFor(x => x.ProductName)
+        @Html.TextBoxFor(x => x.ProductName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.ProductName, "", new { @class = "text-danger" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.Price)
+        @Html.TextBoxFor(x => x.Price, new { @class = "form-control" })
+        @Html.ValidationMessageFor(x => x.Price, "", new { @class = "text-danger" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.MfgDate)
+        @Html.TextBoxFor(x => x.MfgDate, new { @class = "form-control", type = "date" })
+        @Html.ValidationMessageFor(x => x.MfgDate, "", new { @class = "text-danger" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.Picture)
+        @Html.TextBoxFor(x => x.Picture, new { @class = "form-control", type = "file" })
+        @Html.ValidationMessageFor(x => x.Picture, "", new { @class = "text-danger" })
+    </div>
+    <div>
+        @Html.LabelFor(x => x.InStock)
+        @Html.CheckBoxFor(x => x.InStock, new { @class = "form-check-input" })
+        @Html.ValidationMessageFor(x => x.InStock, "", new { @class = "text-danger" })
+    </div>
+
+    <button formnovalidate type="submit" name="operation" value="add">Add Sales</button>
+
+    <table class=" table table-bordered">
+        <thead>
+            <tr>
+                <th>DAte</th>
+                <th>Seller</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (var i = 0; i < Model.Sales.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.TextBoxFor(x => Model.Sales[i].Date, new { @class = "form-control", type = "date" })
+                        @Html.ValidationMessageFor(x => Model.Sales[i].Date, "", new { @class = "text-danger" })
+                    </td>
+                    <td>
+                        @Html.DropDownListFor(x => Model.Sales[i].SellerId, new SelectList(ViewBag.Sellers, "SellerId", "SellerName"), "", new { })
+                        @Html.ValidationMessageFor(x => Model.Sales[i].SellerId, "", new { @class = "text-danger" })
+                    </td>
+                    <td>
+                        <button formnovalidate class="btn btn-danger" type="submit" name="operation" value="del_@i">Remove</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button class="btn btn-success" type="submit" name="operation" value="update">Update</button>
+}
+<div>
+    <img src="~/Pictures/@ViewBag.CurrentPic" class="img-thumbnail"  style="width:100px"/>
+</div>

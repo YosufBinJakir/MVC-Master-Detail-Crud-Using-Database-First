@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|d:\\idb scholarship program\\module 07\\practice\\practicewebapp\\practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\shared\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\shared\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T19:14:19.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T19:00:30.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T18:28:35.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_List.cshtml",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:58:33.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:57:28.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "PracticeWebApp\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAmwH8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:56:32.254Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

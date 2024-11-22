@@ -1,0 +1,12 @@
+﻿@model PracticeWebApp.Models.Product
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Delete</h2>
+
+@using (Html.BeginForm("Delete", "Products", FormMethod.Post, null))
+            {
+                @Html.HiddenFor(x=>x.ProductId)
+    <button class="btn btn-danger" type="submit">Confirm Delete</button>
+            }

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<PracticeWebApp.Models.Product>
+    <button>@Html.ActionLink("Create","Create","Products",null, new { @class="btn btn-primary"})</button>
+    <table class="table table-bordered">
+
+        
+        <thead>
+            <tr>
+                <th>Picture</th>
+                <th>ProductName</th>
+                <th>MfgDate</th>
+                <th>Price</th>
+                <th>InStock</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var p in Model)
+            {
+                <tr>
+                    <td>
+                        <img src="~/Pictures/@p.Picture" class="img-thumbnail" style="width:50px" />
+                    </td>
+                    <td>@p.ProductName</td>
+                    <td>@p.MfgDate</td>
+                    <td>@p.Price</td>
+                    <td>@p.InStock</td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", "Products", new { id = p.ProductId }, null)
+                        @Html.ActionLink("Delete", "Delete", "Products", new { id = p.ProductId }, null)
+                    </td>
+                </tr>
+
+                <tr>
+                    <td colspan="6">
+                        <h2>Sales</h2>
+                        <table class="table table-sm">
+                            <thead>
+                                <tr>
+                                    <th>Date</th>
+                                    <th>Seller</th>
+                                   
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach(var s in p.Sales)
+                {
+                    <tr>
+                        <td>
+                            @s.Date
+                        </td>
+                        <td>
+                            @s.Seller.SellerName
+                        </td>
+                    </tr>
+                }
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
