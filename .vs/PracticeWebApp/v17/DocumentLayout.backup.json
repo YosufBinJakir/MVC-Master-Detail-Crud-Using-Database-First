@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\",
+  "WorkspaceRootPath": "D:\\GitHubUpload\\PracticeWebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|d:\\idb scholarship program\\module 07\\practice\\practicewebapp\\practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\shared\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|d:\\githubupload\\practicewebapp\\practicewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\shared\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\shared\\_list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\GitHubUpload\\PracticeWebApp\\practicewebapp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7A9BAB79-E582-4BFC-88A4-182480E45817}|PracticeWebApp\\PracticeWebApp.csproj|solutionrelative:practicewebapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,23 +70,61 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:15:43.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Global.asax.cs",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Global.asax.cs",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Global.asax.cs",
+              "RelativeToolTip": "PracticeWebApp\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T19:15:17.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Web.config",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Web.config",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Web.config",
+              "RelativeToolTip": "PracticeWebApp\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T19:15:04.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
               "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Edit.cshtml",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Edit.cshtml",
               "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-26T19:14:19.682Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
               "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Delete.cshtml",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Delete.cshtml",
               "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Delete.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -74,52 +132,76 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
               "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Create.cshtml",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Create.cshtml",
               "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T18:28:35.732Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T18:28:35.732Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "_List.cshtml",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
               "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Shared\\_List.cshtml",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Shared\\_List.cshtml",
               "RelativeToolTip": "PracticeWebApp\\Views\\Shared\\_List.cshtml",
-              "ViewState": "AQIAACMAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-08-26T17:58:33.016Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
-              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
-              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-26T17:57:28.118Z"
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs*",
+              "RelativeToolTip": "PracticeWebApp\\Controllers\\ProductsController.cs*",
+              "ViewState": "AgIAAIIAAAAAAAAAAAAcwA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T17:56:32.254Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "PracticeWebApp\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\IDB Scholarship Program\\Module 07\\Practice\\PracticeWebApp\\PracticeWebApp\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "PracticeWebApp\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAmwH8AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T17:56:32.254Z"
+              "DocumentIndex": 4,
+              "Title": "web.config",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\web.config",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\web.config",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\web.config",
+              "RelativeToolTip": "PracticeWebApp\\Views\\web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-22T19:15:22.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-22T19:15:36.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\GitHubUpload\\PracticeWebApp\\PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "PracticeWebApp\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T17:57:28.118Z"
             }
           ]
         }
